@@ -1,0 +1,14 @@
+﻿# RoundCheckWebpage v2.0.0
+# 周期单位：分钟。范围：1 - 43200（整数）。
+IntervalMinutes=60
+
+# 启动后立即打开一轮：true / false。缺省为 true。
+OpenOnStart=true
+
+# 每行一个完整网址；有几行就每轮打开几个，按从上到下的顺序。
+# 行首的 # 或 ; 表示注释；不需要 Url1、Url2 或 Enabled 开关。
+https://www.maoyan.com/cinemas?brandId=188982&hallType=2&movieId=1164582&showDate=2026-11-27
+https://www.maoyan.com/cinema/1485?poi=79809
+
+# 以下网址处于禁用状态。需要同时打开时，删除下一行开头的 #。
+# 

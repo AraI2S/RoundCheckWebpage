@@ -1,0 +1,3 @@
+_Logs/*
+!_Logs/.gitkeep
+Configuration.txt.*.tmp
